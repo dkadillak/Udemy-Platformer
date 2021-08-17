@@ -33,7 +33,7 @@
 
 
 ## How to play
-- clone repository ordownload the **FinalBuild** folder
+- clone repository or download the **FinalBuild** folder
 - run **'Fox's Tale.exe'**
 
 
