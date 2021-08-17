@@ -1,0 +1,18 @@
+Pause then Play then Ctrl + Alt + 'P' to increment the game by one frame
+
+use Debug.Log(); to see console output
+
+
+use ctrl + click in animation curves to change half of curve line selector
+
+lock at top of inspector will lock the inspector at that object!
+
+LateUpdate is called after the update loops, useful to not get jittery effect updating camera and player position both in update loop
+
+[Header("Movement")]
+headers allow you to name and section off specific variables under the header tag so it's easier to see what's going on in the unity editor
+
+# if UNITY_EDITOR
+any code after this line will only run while in unity editor
+#endif
+ends code section that runs only in unity editor
