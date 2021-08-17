@@ -22,11 +22,13 @@
 - Various enemy designs from eagles that swoop down, jumping frogs, spikes, and blocks that crush you
 - Final Boss with 
 
+## Overworld
+<img src="./images/overworld.JPG" alt="final boss" width="900" height="500">
+
 # Various enemy designs and level mechanics
 <img src="./gifs/game_play_gif2.gif" alt="gameplay_gif2" width="900" height="500">
 
 ## Final Boss
-
 <img src="./images/tankboss.JPG" alt="final boss" width="900" height="500">
 
 
