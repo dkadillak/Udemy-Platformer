@@ -20,7 +20,7 @@
 - 2 pickups, cherries for health and gems to get high level scores
 - Damage system that knocks player back, makes them intantible for a short period, and records health in the top left
 - Various enemy designs from eagles that swoop down, jumping frogs, spikes, and blocks that crush you
-- Final Boss with 
+- Final Boss with attack pattern that speeds up the more damage the boss has taken
 
 ## Overworld
 <img src="./images/overworld.JPG" alt="final boss" width="900" height="500">
